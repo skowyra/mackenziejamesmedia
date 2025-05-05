@@ -1,0 +1,13 @@
+name: MJM theme based on the Tailwind CSS Starter Kit
+description: A starter kit theme for Drupal 8/9 and Tailwind CSS.
+core_version_requirement: ^8 || ^9 || ^10 ||^11
+type: theme
+base theme: stable9
+libraries:
+  - mjm/global-styling
+starterkit: true
+
+# Information added by Drupal.org packaging script on 2025-01-31
+version: '5.0.0-alpha3+1-dev'
+project: 'mjm'
+datestamp: 1738322396
